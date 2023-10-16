@@ -3,7 +3,7 @@
   height: 10vh;
   display: flex;
   justify-content: space-between;
-  background-color: blue;
+  background-color: rgb(44, 4, 77);
   align-items: center;
   padding: 10px;
 }
@@ -15,10 +15,9 @@
   gap: 20px;
 }
 .categories li {
-  background-color: yellow;
-  font-weight: bold;
+  background-color: rgb(227, 215, 236);
   padding: 10px 20px;
-  color: black;
+  color: #000000;
   width: 100px;
   display: flex;
   justify-content: center;

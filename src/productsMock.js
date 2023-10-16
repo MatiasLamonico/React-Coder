@@ -1,0 +1,38 @@
+export let products = [
+  {
+    id: 1,
+    title: "Camiseta Adidas Francia Retro",
+    price: 20000,
+    stock: 4,
+    description: "Camiseta Retro Argentina",
+    category: "Camisetas",
+    img: "https://res.cloudinary.com/dhmhefhlz/image/upload/v1697478741/image_213483da-acf1-4a71-ad8e-69bdcd146519_meahcw.jpg",
+  },
+  {
+    id: 2,
+    title: "Camiseta Adidas Francia Retro",
+    price: 14500,
+    stock: 5,
+    description: "Camiseta Retro Francia",
+    category: "Camisetas",
+    img: "https://res.cloudinary.com/dhmhefhlz/image/upload/v1697478654/51J56gBCUMS._AC_UF1000_1000_QL80__h2hdcp.jpg",
+  },
+  {
+    id: 3,
+    title: "Botines Puma",
+    price: 19000,
+    stock: 2,
+    description: "Botines Puma 2023",
+    category: "Botines",
+    img: "https://res.cloudinary.com/dhmhefhlz/image/upload/v1697478887/png_w2frzd.jpg",
+  },
+  {
+    id: 4,
+    title: "Botines Nike",
+    price: 17800,
+    stock: 5,
+    description: "Botines Nike 2023",
+    category: "Botines",
+    img: "https://res.cloudinary.com/dhmhefhlz/image/upload/v1697478887/63e0a57a47ce52f52604ec6d9cf8b5c2_q9ugwo.jpg",
+  },
+];
